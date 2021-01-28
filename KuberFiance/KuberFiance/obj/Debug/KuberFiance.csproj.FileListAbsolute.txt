@@ -1,0 +1,5 @@
+C:\Users\De\Desktop\kuber\KuberFiance\KuberFiance\KuberFiance\bin\KuberFiance.dll
+C:\Users\De\Desktop\kuber\KuberFiance\KuberFiance\KuberFiance\bin\KuberFiance.pdb
+C:\Users\De\Desktop\kuber\KuberFiance\KuberFiance\KuberFiance\obj\Debug\KuberFiance.csprojResolveAssemblyReference.cache
+C:\Users\De\Desktop\kuber\KuberFiance\KuberFiance\KuberFiance\obj\Debug\KuberFiance.dll
+C:\Users\De\Desktop\kuber\KuberFiance\KuberFiance\KuberFiance\obj\Debug\KuberFiance.pdb
